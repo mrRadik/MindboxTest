@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindboxTest.AreaCalculator", "MindboxTest.AreaCalculator\MindboxTest.AreaCalculator.csproj", "{8D596A6C-86D8-4E96-8EC9-F9E4535531D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.UnitTests", "Mindbox.UnitTests\Mindbox.UnitTests.csproj", "{542D866D-964F-4A3E-96EA-3AA629ED9716}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sql", "sql", "{8C0880FA-2020-4F0E-81EE-1E527C01A1DD}"
+	ProjectSection(SolutionItems) = preProject
+		SQL\SQL.sql = SQL\SQL.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D596A6C-86D8-4E96-8EC9-F9E4535531D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D596A6C-86D8-4E96-8EC9-F9E4535531D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D596A6C-86D8-4E96-8EC9-F9E4535531D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D596A6C-86D8-4E96-8EC9-F9E4535531D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{542D866D-964F-4A3E-96EA-3AA629ED9716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542D866D-964F-4A3E-96EA-3AA629ED9716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542D866D-964F-4A3E-96EA-3AA629ED9716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542D866D-964F-4A3E-96EA-3AA629ED9716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
